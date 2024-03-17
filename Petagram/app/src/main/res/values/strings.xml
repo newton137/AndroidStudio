@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="texto_boton">NO PRESIONAR</string>
+    <string name="app_texto">Hello World!!!</string>
+</resources>
